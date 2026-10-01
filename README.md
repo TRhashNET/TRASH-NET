@@ -1,4 +1,4 @@
-<h2 align="left">TRASH-NET </></h2>
+<h2 align="left">TrhashNET </></h2>
 
 ###
 
@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TRASH-NET&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TrhashNET&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -60,12 +60,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/TRASH-NET/TRASH-NET/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/TrhashNET/TrhashNET/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TRASH-NET&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrhashNET&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
